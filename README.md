@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a highly motivated and hardworking **B.Tech Computer Science student** with a solid foundation in programming and software development. I am deeply passionate about technology, solving complex problems, and staying updated with the latest industry trends. My goal is to leverage my technical skills to build innovative solutions that make a positive impact.
+Motivated and hardworking **B.Tech Computer Science** student with a strong foundation in programming. Passionate about technology, AI, problem-solving, and continuous learning. Seeking opportunities to apply skills in a challenging environment.
 
 - 🎓 Currently pursuing **B.Tech in Computer Science**.
 - 💡 Passionate about **Machine Learning, Cloud Computing, and App Development**.
