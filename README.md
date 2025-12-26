@@ -2,7 +2,8 @@
 # 👋 Hi there, I'm Ayan Karmakar!
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+Computer+Science+Student;Aspiring+Software+Engineer;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=B.Tech+Computer+Science+Student;Aspiring+Software+Engineer;Tech+Enthusiast+Exploring+AI+%26+Problem+Solving" alt="Typing SVG" />
+
 
 ---
 
