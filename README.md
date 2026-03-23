@@ -60,7 +60,10 @@ Motivated and hardworking **B.Tech Computer Science** student with a strong foun
 </p>
 
 ---
+### Visitors 
+![Visitors](https://komarev.com/ghpvc/?username=Ayan-Script&color=green)
 
+___
 ### 🤝 Connect with me
 
 <p align="left">
